@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryFlipGameSDL2", "MemoryFlipGameSDL2\MemoryFlipGameSDL2.vcxproj", "{0B393B5A-1CA5-4067-AD59-600AB871A42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Debug|x64.ActiveCfg = Debug|x64
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Debug|x64.Build.0 = Debug|x64
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Debug|x86.Build.0 = Debug|Win32
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Release|x64.ActiveCfg = Release|x64
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Release|x64.Build.0 = Release|x64
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Release|x86.ActiveCfg = Release|Win32
+		{0B393B5A-1CA5-4067-AD59-600AB871A42C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D446B1-BADB-4F87-880B-14AF14DE4AA7}
+	EndGlobalSection
+EndGlobal
